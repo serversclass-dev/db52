@@ -1,1 +1,24 @@
-{}
+{
+  "marwa": {
+    "username": "marwa",
+    "password": "marwashukfree2008SS",
+    "student_type": "علمي",
+    "telegram_user_id": "6480345548",
+    "telegram_username": null,
+    "telegram_first_name": "Marwa",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_54.jpg",
+    "session_id": "40989178-5f4d-4027-b9c8-f3d7db19e6e6",
+    "created_at": "2026-05-11T18:28:14.314001",
+    "verified": true,
+    "last_login": "2026-05-11T18:32:04.050371",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic",
+      "literary_studies",
+      "physics_mechanic",
+      "statistics",
+      "english"
+    ],
+    "server_num": 52
+  }
+}
