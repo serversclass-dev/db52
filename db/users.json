@@ -20,5 +20,33 @@
       "english"
     ],
     "server_num": 52
+  },
+  "nour7": {
+    "username": "nour7",
+    "password": "2008nnA#",
+    "student_type": "علمي",
+    "telegram_user_id": "7628058889",
+    "telegram_username": "nouraljazwe81",
+    "telegram_first_name": "nour.hassan",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_98.jpg",
+    "session_id": "ac5ef051-4f26-404f-ae58-cd768ee1ab01",
+    "created_at": "2026-05-15T21:12:37.880378",
+    "verified": true,
+    "last_login": "2026-05-15T21:19:41.145188",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic",
+      "english",
+      "math",
+      "it",
+      "statistics",
+      "chemistry",
+      "physics_electric",
+      "physics_mechanic",
+      "biology",
+      "literary_studies",
+      "linguistic_studies"
+    ],
+    "server_num": 52
   }
 }
