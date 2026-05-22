@@ -48,5 +48,23 @@
       "linguistic_studies"
     ],
     "server_num": 52
+  },
+  "Fatima": {
+    "username": "Fatima",
+    "password": "vt5-EB7-xgW-aV",
+    "student_type": "علمي",
+    "telegram_user_id": "5941162187",
+    "telegram_username": null,
+    "telegram_first_name": "Merit 𓅓𓂋𓏏 مِيرِيت𐙚",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_104.jpg",
+    "session_id": "0ae68b99-33a8-4385-9314-f55147eb21bd",
+    "created_at": "2026-05-22T19:57:52.274187",
+    "verified": true,
+    "last_login": "2026-05-22T19:59:31.085625",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic"
+    ],
+    "server_num": 52
   }
 }
